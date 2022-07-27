@@ -1,0 +1,7 @@
+
+#hopefully its tg=he right thing
+.vscode
+__pycache__
+env/Lib
+env/Scripts
+pyvenv.cfg
