@@ -1,7 +1,7 @@
-
-#hopefully its tg=he right thing
-.vscode
+# have no idea what to put here
+site-packages
+.idea
 __pycache__
-env/Lib
-env/Scripts
-pyvenv.cfg
+.vscode
+env
+greenlet.h
