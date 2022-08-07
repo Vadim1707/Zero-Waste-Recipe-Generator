@@ -5,3 +5,4 @@ __pycache__
 .vscode
 env
 greenlet.h
+local_settings.py
