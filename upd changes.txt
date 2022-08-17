@@ -1,0 +1,4 @@
+1. Modified generate recipes function, so that It'd work properly
+2. Some refactoring of API and API functions
+3. Connected to db
+4. Wrote a function that queries passing recipes depending on ingredients you have
